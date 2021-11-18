@@ -15,7 +15,7 @@ const createChart = () => {
 
       yAxis: {
           title: {
-              text: 'Number of Employees'
+              text: 'Wind Speed/Gust (mph)'
           }
       },
 
